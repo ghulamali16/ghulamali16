@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ghulamali16
 - 👀 I’m interested in everything that takes longer than coffee to make.
-- 🌱 I’m currently learning Ruby on Rails and React
+- 🌱 I’m currently learning Angular for no reason.
 - 💞️ I’m looking to collaborate on "Sleeping Advice"
 - 📫 How to reach me? linkedin/ghulamalibutt
 - 🍸 Open source Contributions to:
