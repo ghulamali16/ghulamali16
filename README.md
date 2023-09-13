@@ -5,6 +5,7 @@
 - 📫 How to reach me? linkedin/ghulamalibutt
 - 🍸 Open source Contributions to:
     - 🐘 MindsDB
+    - 🍴Fork-Commit-Merge
 <!---
 ghulamali16/ghulamali16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
