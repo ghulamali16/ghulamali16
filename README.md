@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghulam Ali</h1>
 <h3 align="center">A passionate Full-Stack developer and AI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghulamali16&label=Profile%20views&color=0e75b6&style=for-the-badge&base=11200&abbreviated=true" alt="ghulamali16" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghulamali16&label=Profile%20views&color=0e75b6&style=for-the-badge&base=11900&abbreviated=true" alt="ghulamali16" /> </p>
 
 - 🌱 I’m currently interested in **travelling across the country**
 
